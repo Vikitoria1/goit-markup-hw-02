@@ -49,7 +49,7 @@ body {
 }
 
 .header-menu-link:hover,
-.header-menu-linl:focus {
+.header-menu-link:focus {
   color: var(--hover-color);
 }
 
