@@ -10,8 +10,8 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: #ffffff;
+  color: var(--address-color);
+  background-color: var(--background-color);
 }
 
 .link {
@@ -23,7 +23,6 @@ body {
 
 .header-logo {
   font-family: "Raleway", sans-serif;
-  font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -161,7 +160,6 @@ font-style: normal;
 
 .footer-logo {
   font-family: "Raleway", sans-serif;
-  font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -187,9 +185,9 @@ font-style: normal;
 }
 
 /*--PORTFOLIO--*/
+
 .portfolio-button-link {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
